@@ -1,5 +1,19 @@
 # Introduction of projects
 
+## (OpenCV) cell detection, tracking, and analysis
+
+Aim:
+
+     Automate the detection and tracking of the cells in time-lapse microscopy images to support different biological experiments or observations.
+
+
+Description:
+
+     The image data to be used in the group project is taken from the international Cell Tracking Challenge (CTC)[1].
+     The developed methods will work on all these data.
+
+   
+
 ## Fuzzy Scheduling
 
 
@@ -38,4 +52,9 @@ Description:
      In this assignment, there will be given a collection of tweets about US airlines. 
      The tweets have been manually labelled for sentiment. Sentiment is categorized as either positive, negative or neutral. 
      Note: These tweets as dataset will not be uploaded on the Internet, as this breaches Twitter’s Terms of Service.
+
+
+
+
+[1] V. Ulman et al. An objective comparison of cell-tracking algorithms. Nature Methods, vol. 14, no. 2, pp.1141-1152, December 2017. https://doi.org/10.1038/nmeth.4473
 
